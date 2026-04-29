@@ -7,7 +7,7 @@
 
 ## 🛠️ Technology Stack
 * **Backend:** PHP, Laravel
-* **Database:** PostgreSQL (with complex relational schemas for player inventories and game states)
+* **Database:** MySQL (with complex relational schemas for player inventories and game states)
 * **Real-time Communication:** WebSockets for instant turn-based synchronization
 * **Cross-Platform / Mobile:** Web core wrapped natively using Capacitor (handling safe-areas, mobile UI, and store constraints)
 * **DevOps & Infrastructure:** Self-hosted VPS, Docker, Docker Compose, Nginx
