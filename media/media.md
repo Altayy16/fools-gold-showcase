@@ -5,7 +5,7 @@
 
 | 🏠 Lobby View | 📸 Main Lobby | 👤 Player Profile | 🦹 Hero Creator |
 | :---: | :---: | :---: | :---: |
-| <video src="./media/Lobby/Lobby.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./media/Lobby/Lobby.jpg" width="100%" alt="Main Lobby"/> | <img src="./media/Lobby/Profile.jpg" width="100%" alt="Player Profile"/> | <img src="./media/Lobby/Hero_custom.jpg" width="100%" alt="Hero Creator"/> |
+| <video src="./Lobby/Lobby.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./Lobby/Lobby.jpg" width="100%" alt="Main Lobby"/> | <img src="./Lobby/Profile.jpg" width="100%" alt="Player Profile"/> | <img src="./Lobby/Hero_custom.jpg" width="100%" alt="Hero Creator"/> |
 
 ---
 
@@ -14,7 +14,7 @@
 
 | 🛒 General Market | 🃏 Booster Packs |
 | :---: | :---: |
-| <video src="./media/Lobby/market.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./media/Lobby/booster.mp4" autoplay loop muted playsinline width="100%"></video> |
+| <video src="./Lobby/market.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./Lobby/booster.mp4" autoplay loop muted playsinline width="100%"></video> |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | ⚙️ Settings Menu | 👥 Friends List |
 | :---: | :---: |
-| <video src="./media/Lobby/settings.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./media/Lobby/friends.jpg" width="100%" alt="Friends List"/> |
+| <video src="./Lobby/settings.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./Lobby/friends.jpg" width="100%" alt="Friends List"/> |
 
 ---
 
@@ -32,7 +32,7 @@
 
 | 🎲 MiniGames | 🎁 Daily Rewards | 📜 Quests |
 | :---: | :---: | :---: |
-| <video src="./media/Lobby/Minigame.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./media/Lobby/Rewards.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./media/Lobby/quests.jpg" width="100%" alt="Quests List"/> |
+| <video src="./Lobby/Minigame.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./Lobby/Rewards.mp4" autoplay loop muted playsinline width="100%"></video> | <img src="./Lobby/quests.jpg" width="100%" alt="Quests List"/> |
 
 ---
 
@@ -41,7 +41,7 @@
 
 | ⏳ Create & Join Room |
 | :---: |
-| <video src="./media/Waiting_Room/Create_room.mp4" autoplay loop muted playsinline width="100%"></video> |
+| <video src="./Waiting_Room/Create_room.mp4" autoplay loop muted playsinline width="100%"></video> |
 
 ---
 
@@ -50,4 +50,4 @@
 
 | ⚔️ Active Gameplay | 🏆 Game Over Results |
 | :---: | :---: |
-| <video src="./media/GameBoard/GameBoard.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./media/GameBoard/GameOver.mp4" autoplay loop muted playsinline width="100%"></video> |
+| <video src="./GameBoard/GameBoard.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="./GameBoard/GameOver.mp4" autoplay loop muted playsinline width="100%"></video> |
