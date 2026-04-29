@@ -2,6 +2,12 @@
 
 > **Note:** The full source code for *Fools Gold* is currently private as the game is preparing for official release on mobile app stores. This repository serves as a technical showcase outlining the system architecture, DevOps infrastructure, and engineering principles used to build the game.
 
+### 🎮 Play the Preview
+The game is currently available to play via the web link below. 
+**Note:** The web version will remain accessible until the official launch on the Google Play Store.
+
+[**👉 Click here to play Fools Gold Web Preview**](https://play.devalty.com/)
+
 ## 📌 Project Overview
 *Fools Gold* is a real-time, turn-based multiplayer RPG. It requires complex server synchronization, strict state management, and a seamless cross-platform experience across Web, iOS, and Android.
 
